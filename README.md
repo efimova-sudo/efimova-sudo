@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼 I'm Anastasia</h1>
-<h3 align="center">AI Automation Engineer</h3>
+<h3 align="center">AI Solutions Engineer</h3>
 
 Backend engineer with 6 years of .NET experience, now focused on AI automation and agentic systems. I build reliable business workflows that connect APIs, documents, AI models, and operational tools — with validation, idempotency, audit logging, error handling, and human review built in.
 
