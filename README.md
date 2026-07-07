@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋🏼 I'm Anastasia</h1>
+<h3 align="center">AI Automation Engineer</h3>
 
-<!--
-**efimova-sudo/efimova-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer with 6 years of .NET experience, now focused on AI automation and agentic systems. I build reliable business workflows that connect APIs, documents, AI models, and operational tools — with validation, idempotency, audit logging, error handling, and human review built in.
 
-Here are some ideas to get you started:
+My current focus is production-minded automation: n8n orchestration, Python tooling, reusable delivery systems, and practical AI workflows that solve real operational problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+* **[Project Onboarding Automation](https://github.com/efimova-sudo/project-onboarding-automation)** — An end-to-end n8n system that turns a signed contract into a structured project setup across Slack, Google Workspace, QuickBooks, Gmail, and project tracking.
+
+* **[AI Client Delivery Kit](https://github.com/efimova-sudo/ai-client-delivery-kit)** — A reusable toolkit for versioned prompts, client configuration, validation, GitHub Actions, security, and client handoff.
+
+### Core stack
+
+`n8n` · `Python` · `C# / .NET` · `REST APIs` · `SQL / PostgreSQL` · `Docker` · `GitHub Actions` · `LLM workflows`
+
+### Find me
+
+* 💼 LinkedIn: [Anastasia Efimova](https://www.linkedin.com/in/anastasia-a-efimova/)
